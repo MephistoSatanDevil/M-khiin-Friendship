@@ -22,7 +22,7 @@ A: Players have their own interpretations of canon characters. While I think she
 
 ## CHANGELOG
 
-* 1.3 - Updated with Spanish translation by RoyalProtector. <3 
+* 1.3 - Updated with Spanish translation by Kaelyn. <3 
 * 1.4 - Updated with Simplified Chinese translation by MephistoSatanDevil. <3
 
 ## LICENSING
@@ -41,4 +41,4 @@ A: Players have their own interpretations of canon characters. While I think she
 * [@Gitjas](https://github.com/Gitjas) [g3](https://www.gibberlings3.net/profile/256-jastey/)
 * [@zenblack](https://github.com/zenblack) [g3](https://www.gibberlings3.net/profile/7135-zenblack/)
 * [@dark0dave](https://github.com/dark0dave) [g3](https://www.gibberlings3.net/profile/13480-dark0dave/)
-* [@Kaelyn](https://github.com/szaumoor) [g3](https://www.gibberlings3.net/profile/12720-royalprotector/)
+* [@Kaelyn](https://github.com/szaumoor) [g3](https://www.gibberlings3.net/profile/12720-kaelyn/)
